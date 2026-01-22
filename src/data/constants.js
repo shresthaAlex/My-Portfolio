@@ -7,7 +7,7 @@ export const Bio = {
      ],
   description:
     " A motivated and versatile developer with a passion for  full-stack development ,AI integration and building modern web and mobile applications.",
-  github: "https://github.com/080bct12alex",
+  github: "https://github.com/shresthaAlex",
   resume: process.env.PUBLIC_URL + "/resume.pdf",
   linkedin: "https://www.linkedin.com/in/alexstha310/",
   twitter: "https://x.com/alexstha103",
@@ -30,7 +30,7 @@ export const skills = [
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
 
-
+ /*
       {
         name: "Redux",
         image:
@@ -76,6 +76,7 @@ export const skills = [
         image:
           "https://api.nuget.org/v3-flatcontainer/microsoft.playwright/1.55.0/icon",
       },
+       /*
     ],
   },
   {
@@ -98,11 +99,12 @@ export const skills = [
       },
 
 
-      {
+      /* {
         name: "Nginx",
         image:
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEwNl0cNl0gOl0gMlkYOmEcNl0gNl0gOl0gNl0gNl0gOl0gOl0gHlkYAlUMmnlU1pGHr9/H////K6NdKrnN3wJNTs3qn0bW73skAkTjP6dmBxZxwuottpFM/AAAADXRSTlMAWeAUQbn/j/KC2MCzV8aAaAAAAMFJREFUeAGF0wUSgDAMBECkBK0Fl/9/EwkuGW68W2/jXON6nut8xhcBzAnEh4kwAkoUPtmPEziSxP7V3BRuSd2DRBbBI1EmiPyQSCq5gZTENLcAijZ6U6OBInaUxmJeKABQJVojb6gqRMzNrKpGpF4PxAYkj1i3HDYdYtkyWBcWbdUy2FazGg7bHrFrGIRlTuRQ6oZHUCYnfF6fHZYmWXRotbwiXTxQpL5c/PFkx4up48n4x/7/JvwH+/+aP5+aKYcJ/UsWvyxQz4gAAAAASUVORK5CYII=",
       },
+      */
 
       /*{
         name: "GraphQL",
@@ -153,13 +155,13 @@ export const skills = [
         image:
           "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
       },
-      */
+      
 
       {
         name: "Redis",
         image:
           "https://gbnz.gallerycdn.vsassets.io/extensions/gbnz/redis-cache-clear/2.0.12/1677930191555/Microsoft.VisualStudio.Services.Icons.Default",
-      },
+      },*/
       
       {
         name: "Socket.IO",
@@ -386,7 +388,7 @@ export const projects = [
     image: "https://i.ibb.co/RpCCJ3Ss/chatbot.jpg",
     tags: ["LanGraph", "LangSmith"],
     category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/ChatBot",
+    github: "https://github.com/shresthaAlex/ChatBot",
     webapp: "https://alexchatbot.streamlit.app",
   },
 
@@ -399,7 +401,7 @@ export const projects = [
     image: "https://i.ibb.co/pvCrLj11/Screenshot-2025-07-21-170230.png",
     tags: ["Next JS", "FastAPI", "MongoDB", "JWT","Docker", "CI/CD", "Unit Testing"],
     category: [ "web app"],
-    github: "https://github.com/080bct12alex/MedixUI",
+    github: "https://github.com/shresthaAlex/MedixUI",
     webapp: "https://medix-neon.vercel.app",
   },
   
@@ -410,7 +412,7 @@ export const projects = [
     image: "https://i.ibb.co/ZqTwcjk/bondr.jpg",
     tags: ["MERN", "Socket.io",  "JWT"],
     category: ["web app"],
-    github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
+    github: "https://github.com/shresthaAlex/Bondr-Swipe.Chat.Bond",
     webapp: "https://bondr.onrender.com",
   },
 
@@ -421,7 +423,7 @@ export const projects = [
     image: "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
     tags: ["MERN", "Redis", "Stripe", "JWT"],
     category: ["web app"],
-    github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
+    github: "https://github.com/shresthaAlex/swiftly-click.shop.smile",
     webapp: "https://swiftly-shop.onrender.com",
   },
 
@@ -435,7 +437,7 @@ export const projects = [
     image: "https://i.ibb.co/zTvw3T4W/Capture.png",
     tags: ["Machine Learning", "Data Science", "MlP Regressor", "Scikit-learn","NextJS"],
     category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/Nepalestate",
+    github: "https://github.com/shresthaAlex/Nepalestate",
     webapp: "https://nepalestate.vercel.app",
   },
   {
@@ -446,7 +448,7 @@ export const projects = [
     image: "https://i.ibb.co/Y42Tf3Vp/Capture.png",
     tags: ["Machine Learning", "Data Science", "Collaborative-filtering", "Scikit-learn"],
     category: ["machine learning"],
-    github: "https://github.com/080bct12alex/cinematch",
+    github: "https://github.com/shresthaAlex/cinematch",
     webapp: "https://cinematch3.streamlit.app",
   },
 
@@ -458,7 +460,7 @@ export const projects = [
     image: "https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png",
     tags: ["Next JS", "Gemini API"],
     category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/SplitIQ",
+    github: "https://github.com/shresthaAlex/SplitIQ",
     webapp: "https://splitiq-beige.vercel.app",
   },
 
@@ -470,7 +472,7 @@ export const projects = [
     image: "https://i.ibb.co/hF24KVJT/Screenshot-2025-05-11-163948.png",
     tags: ["MERN", "TailwindCSS", "Gemini API"],
     category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/AlexAI",
+    github: "https://github.com/shresthaAlex/AlexAI",
     webapp: "https://alexai-ayn3.onrender.com",
   },
 
@@ -483,7 +485,7 @@ export const projects = [
   image: "https://i.ibb.co/QjjgP9Xc/ds-avl.png",
     tags: ["Data Structure", "Next JS","React Flow"],
   category: [ "web app"],
-  github: "https://github.com/080bct12alex/AVL-Tree-Visualizer",
+  github: "https://github.com/shresthaAlex/AVL-Tree-Visualizer",
   webapp: "https://avl-tree-visualizer-alex.vercel.app",
 },
     {
@@ -493,7 +495,7 @@ export const projects = [
     image: "https://i.ibb.co/PZHxcTx9/Capture.png",
     tags: ["React", "Gemini API", "SerpAPI"],
     category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/Travel_Companion_AI",
+    github: "https://github.com/shresthaAlex/Travel_Companion_AI",
     webapp: "https://travelcompanionai.onrender.com",
   },
 
@@ -508,7 +510,7 @@ export const projects = [
     image: "https://i.ibb.co/60n3d9cP/af39b36e-0914-4505-8878-f38b3d1bad3a.jpg",
     tags: ["React Native", "EXPO", "Google map"],
     category: ["android app"],
-    github: "https://github.com/080bct12alex/EasyRyde",
+    github: "https://github.com/shresthaAlex/EasyRyde",
     webapp: "https://www.upload-apk.com/en/XFXTAPUgvXDEE0d",
   },
 
