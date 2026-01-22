@@ -160,16 +160,15 @@ export const skills = [
         name: "Redis",
         image:
           "https://gbnz.gallerycdn.vsassets.io/extensions/gbnz/redis-cache-clear/2.0.12/1677930191555/Microsoft.VisualStudio.Services.Icons.Default",
-      },*/
+      },
       
       {
         name: "Socket.IO",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg",
-      },
-
-/*
-      {
+      }, */
+      
+    /*{
         name: "Kafka",
         image:
           "https://img-c.udemycdn.com/course/750x422/1146104_b73e_16.jpg",
