@@ -382,9 +382,9 @@ export const projects = [
   {
     id: 0,
     title: " LangChat",
-    description: "An AI-powered chatbot.",
+    description: "An AI-Powered RAG-Based Agentic Chatbot with MCP.",
     image: "https://i.ibb.co/RpCCJ3Ss/chatbot.jpg",
-    tags: ["LanGraph", "LangSmith"],
+    tags: ["LanGraph", "LangSmith" ],
     category: ["machine learning", "web app"],
     github: "https://github.com/shresthaAlex/ChatBot",
     webapp: "https://alexchatbot.streamlit.app",
