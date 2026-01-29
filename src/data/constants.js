@@ -117,13 +117,13 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
     
-       /*
+      
       {
         name: "PostgreSQL",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
       },
-
+ /*
       
 
      {
@@ -433,7 +433,7 @@ export const projects = [
     title: "NepalEstate",
     description: "A real estate price prediction app. ",
     image: "https://i.ibb.co/zTvw3T4W/Capture.png",
-    tags: ["Machine Learning", "Data Science", "MlP Regressor", "Scikit-learn","NextJS"],
+    tags: ["Machine Learning", "Data Science", "Scikit-learn","NextJS"],
     category: ["machine learning", "web app"],
     github: "https://github.com/shresthaAlex/Nepalestate",
     webapp: "https://nepalestate.vercel.app",
