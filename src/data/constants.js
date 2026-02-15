@@ -123,6 +123,17 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
       },
+
+       {
+        name: "MySQL",
+        image:
+          "https://github.com/user-attachments/assets/b9a84a8a-6097-44c9-9cf3-42a3247f312a",
+      },
+
+
+
+
+      
  /*
       
 
