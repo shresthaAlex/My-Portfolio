@@ -121,7 +121,7 @@ export const skills = [
       {
         name: "PostgreSQL",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
       },
 
        {
